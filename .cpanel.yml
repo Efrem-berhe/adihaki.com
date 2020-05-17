@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/taymmbwd/adihaki.com/
+    - /bin/cp adihaki $DEPLOYPATH
+
